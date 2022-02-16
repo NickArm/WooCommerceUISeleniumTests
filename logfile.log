@@ -1,0 +1,47 @@
+2022-02-16 19:15:02,970 :INFO : test_e2e :Menu Items:5
+2022-02-16 19:17:59,569 :INFO : test_e2e :Menu Items:5
+2022-02-16 19:18:01,152 :INFO : test_e2e :Product Items:12
+2022-02-16 19:19:58,200 :INFO : test_e2e :Menu Items:5
+2022-02-16 19:19:59,194 :INFO : test_e2e :Product Items:12
+2022-02-16 19:21:52,662 :INFO : test_e2e :Menu Items:5
+2022-02-16 19:23:40,752 :INFO : test_e2e :Menu Items:5
+2022-02-16 19:24:35,726 :INFO : test_header :Menu Items:5
+2022-02-16 19:24:37,352 :INFO : test_homepageProducts :Product Items:12
+2022-02-16 19:25:44,593 :INFO : test_header :Menu Items:5
+2022-02-16 19:25:46,207 :INFO : test_homepageProducts :Product Items:12
+2022-02-16 19:27:33,704 :INFO : test_header :Menu Items:5
+2022-02-16 19:27:35,365 :INFO : test_homepageProducts :Product Items:12
+2022-02-16 19:27:35,378 :INFO : test_footer :Footer Ok
+2022-02-16 19:29:43,191 :INFO : test_header :Menu Items:5
+2022-02-16 19:29:44,790 :INFO : test_homepageProducts :Product Items:12
+2022-02-16 19:30:42,835 :INFO : test_header :Menu Items:5
+2022-02-16 19:30:44,471 :INFO : test_homepageProducts :Product Items:12
+2022-02-16 19:31:23,477 :INFO : test_header :Menu Items:5
+2022-02-16 19:31:25,088 :INFO : test_homepageProducts :Product Items:12
+2022-02-16 19:37:46,456 :INFO : test_header :Menu Items: 5
+2022-02-16 19:37:49,232 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:38:20,427 :INFO : test_header :Menu Items: 5
+2022-02-16 19:38:23,252 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:38:23,637 :INFO : test_footer :Footer Basic Links Missing
+2022-02-16 19:39:39,742 :INFO : test_header :Menu Items: 5
+2022-02-16 19:39:43,118 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:39:43,548 :INFO : test_footer :Footer Basic Links Missing
+2022-02-16 19:41:03,328 :INFO : test_header :Menu Items: 5
+2022-02-16 19:41:05,018 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:41:05,463 :INFO : test_footer :Footer Basic Links are ok
+2022-02-16 19:41:29,944 :INFO : test_header :Menu Items: 5
+2022-02-16 19:41:31,601 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:47:25,138 :INFO : test_header :Menu Items: 5
+2022-02-16 19:47:26,717 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:48:13,936 :INFO : test_header :Menu Items: 5
+2022-02-16 19:48:16,143 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:48:43,097 :INFO : test_header :Menu Items: 5
+2022-02-16 19:48:45,251 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:49:06,260 :INFO : test_header :Menu Items: 5
+2022-02-16 19:49:08,430 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:49:26,338 :INFO : test_header :Menu Items: 5
+2022-02-16 19:49:28,027 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:49:49,797 :INFO : test_header :Menu Items: 5
+2022-02-16 19:49:51,921 :INFO : test_homepageProducts :Product Items: 12
+2022-02-16 19:50:10,078 :INFO : test_header :Menu Items: 5
+2022-02-16 19:50:12,259 :INFO : test_homepageProducts :Product Items: 12
